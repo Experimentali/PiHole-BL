@@ -1,0 +1,58 @@
+# Title: Experimentali/PiHole-BL
+#
+# This hosts file contains a list of proxies
+#
+# Date: 2/9/2023
+#
+# ===============================================================
+
+0.0.0.0 stars.gq
+0.0.0.0 kazw.net
+0.0.0.0 math.kazw.net
+0.0.0.0 proxy.baggette.cf
+0.0.0.0 windywinter.cf
+0.0.0.0 campusdirections.org/1.html
+0.0.0.0 lightlinks.vercel.app
+0.0.0.0 inc.5gms.tk
+0.0.0.0 r.utopiabeta.gq
+0.0.0.0 bookbird.cf
+0.0.0.0 mathematicalsols.org/1.html
+0.0.0.0 coolsharks.info
+0.0.0.0 neb.searchtheweb.xyx
+0.0.0.0 mathmatics-free.xyz
+0.0.0.0 schooltutor.xyz
+0.0.0.0 edpuzzle.gq
+0.0.0.0 www.jobopportunities.ml
+0.0.0.0 nitrotype.tk
+0.0.0.0 englishpresentation.onrender
+0.0.0.0 nebula.subwavenetwork.com
+0.0.0.0 media.exid.me
+0.0.0.0 mediaology.mediaology.com
+0.0.0.0 foxmoss.com
+0.0.0.0 fishme.me
+0.0.0.0 ihave.noiq.io
+0.0.0.0 ludicrousub.org
+0.0.0.0 haven.proxyhaven.repl.co
+0.0.0.0 replit.com/@ProxyHaven/Haven
+0.0.0.0 dog.birdriver.org
+0.0.0.0 dreams.software
+0.0.0.0 neb.quest
+0.0.0.0 irwintech.onrender.com
+0.0.0.0 client.stealthproxy.cf
+0.0.0.0 tehe.mooo.com
+0.0.0.0 cows.dailyholycrap.com/main.html
+0.0.0.0 gointerstellar.app
+0.0.0.0 darkware.darkmantis089.repl.co
+0.0.0.0 enchanting-tux-dove.cyclic.app
+0.0.0.0 incognito-056s.onrender.com
+0.0.0.0 thecollegeboards.org/1.html
+0.0.0.0 studentcenter.gq
+0.0.0.0 canvas.lnstructure.ga
+0.0.0.0 www.typeracer.gq
+0.0.0.0 www.quizlet.gq
+0.0.0.0 flipgrid.cf
+0.0.0.0 r.pluralsight.gq
+0.0.0.0 r.codewars.ml
+0.0.0.0 www.coursera.cf
+0.0.0.0 cloudflare.rammerhead.org
+0.0.0.0 r.studyschooltoday.eu.org
